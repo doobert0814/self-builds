@@ -1,0 +1,17 @@
+These are the sample questions for the code challenge I have on tuesday. 
+
+Your weekend challenge from me:
+make a new folder, and create a file named bird.rb
+create a Bird class
+add a binding.pry to the very bottom of the file
+make sure birds can be created with a name and a breed
+make sure you can read the breed of a bird, and you can read or change the name of the bird after it's created
+make sure you have a method that can tell us all the birds that have been created
+make 3 birds after the class and before the binding.pry
+run your bird.rb file, make sure you can hit your binding.pry, so you can:
+read the breed of one of the birds
+read the name of one of the birds
+change the name of one of the birds
+make a new bird and make sure it gets added to your list of all the birds
+make a class method in your code that returns all birds that are a certain breed (aka a class method called all_robins that returns a list of all the birds that are of breed 'robin')
+make an instance method called shout that returns the birds name in all caps and with an exclamation point (e.g. if the bird's name is Blueberry, it returns 'BLUEBERRY!')
